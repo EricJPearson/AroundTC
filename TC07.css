@@ -1,0 +1,100 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+}
+
+.Base {
+	font-size: x-small;
+}
+
+.Tiny {
+	font-size: x-small;
+}
+
+.Medium {
+	font-size: medium;
+}
+
+.Regular {
+	font-size: small;
+}
+
+.Disabled {
+	color: #000000;
+}
+
+.Editorial {
+	color: #008800;
+}
+
+.Highlight {
+	color: #008800;
+}
+
+.Code {
+	font-family: "Courier New", Courier, monospace;
+	font-size: medium;
+}
+
+.CodeRemark {
+	font-family: "Courier New", Courier, monospace;
+	font-size: medium;
+	color: #008800;
+}
+
+.Updated {
+	font-size: x-small;
+	color: #CCCCCC;
+}
+
+.Dingbats{
+	color: #CC0000;
+}
+
+.ULine {
+	text-decoration: underline;
+}
+
+.PageHeader {
+	font-size: large;
+	font-weight: bold;
+	color: #884400;
+	text-align: center;
+}
+.UrgentPageHeader {
+	font-size: large;
+	font-weight: bold;
+	color: #990000;
+	text-align: center;
+}
+
+.TopicHeader1 {
+	font-size: medium;
+	font-weight: bold;
+	color: #CC0000;
+	text-align: center;
+}
+.ParagraphHeader {
+	font-size: medium;
+	font-weight: bold;
+	color: #990000;
+}
+.SmallPrint {
+	font-size: xx-small;
+	text-transform: uppercase;
+}
+.tborder {
+	background: #D0D0D0;
+	color: #000000;
+	border: 0px solid #000000;
+}
+.Centered {
+	font-size: medium;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #666;
+	text-align: center;
+}
+
+.SmCenter {
+	font-size: small;
+}
